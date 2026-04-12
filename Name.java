@@ -1,5 +1,11 @@
 public class Sample {
     public static void main(String[] args) {
         System.out.println("My name is A.Joash Princeton");
+        int q=1;
+        if(q==1){
+            System.out.println("Yes");
+        }else{
+            System.out.println("No");
+        }
     }
 }
