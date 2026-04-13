@@ -7,5 +7,9 @@ public class Sample {
         }else{
             System.out.println("No");
         }
+        int q=5;
+        for(int i=0;i<q;i++){
+            System.out.println(i);
+        }
     }
 }
