@@ -4,5 +4,7 @@ public class Sample {
         System.out.println("I am a Student studing 2nd year");
         System.out.println("I wrote exam Today.");
         System.out.println("67");
+        int q=1;
+        
     }
 }
