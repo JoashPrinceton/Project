@@ -14,5 +14,7 @@ public class Sample {
         int w=100;
         System.out.println("Marks="+w);
         System.out.println("67");
+        String name='Jaosh Princeton';
+        
     }
 }
