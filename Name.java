@@ -17,6 +17,5 @@ public class Sample {
         String name='Jaosh Princeton';
         int q=67;
         
-        
     }
 }
