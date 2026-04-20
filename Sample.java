@@ -5,6 +5,6 @@ public class Sample {
         System.out.println("I wrote exam Today.");
         System.out.println("67");
         int q=1;
-        
+        System.out.println(q);
     }
 }
