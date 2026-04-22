@@ -6,6 +6,5 @@ public class Sample {
         System.out.println("67");
         int q=1;
         System.out.println(q);
-        
     }
 }
