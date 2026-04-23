@@ -17,5 +17,7 @@ public class Sample {
         System.out.println("67");
         String name='Jaosh Princeton';
         int q=67;
+
+        
     }
 }
