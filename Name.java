@@ -4,7 +4,8 @@ public class Sample {
         int q=1;
         if(q==1){
             System.out.println("Yes");
-        }else{
+        }
+        else{
             System.out.println("No");
         }
         int q=5;
