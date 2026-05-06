@@ -18,6 +18,7 @@ public class Sample {
         String name='Jaosh Princeton';
         int q=67;
         string s='Hi';
-        System.out.println("Exam are over"):
+        System.out.println("Exam are over");
+            
     }
 }
