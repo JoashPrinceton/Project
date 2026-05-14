@@ -19,6 +19,5 @@ public class Sample {
         int q=67;
         string s='Hi';
         System.out.println("Exam are over");
-        
     }
 }
