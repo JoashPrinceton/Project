@@ -8,6 +8,5 @@ public class Sample {
         System.out.println(q);
         System.out.println("help");
         System.out.println("Bayarn Murnic Lost the ucl match");
-    
     }
 }
