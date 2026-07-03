@@ -5,7 +5,6 @@ public class Sample {
         if(q==1){
             System.out.println("Yes");
         }
-            
         else{
             System.out.println("No");
         }
