@@ -12,6 +12,7 @@ public class Sample {
         for(int i=0;i<q;i++){
             System.out.println(i);
         }
+        
         int w=100;
         System.out.println("Marks="+w);
         System.out.println("67");
